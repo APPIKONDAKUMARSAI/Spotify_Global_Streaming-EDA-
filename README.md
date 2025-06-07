@@ -33,3 +33,7 @@ Mood classification for top albums<br>
 Value counts, unique counts, and null value checks for all fields<br>
 Skip rate and streaming frequency breakdowns<br>
 7. Screenshot<br>
+https://github.com/APPIKONDAKUMARSAI/Spotify_Global_Streaming-EDA-/blob/main/Spotify_EDA_Overview.PNG<br>
+https://github.com/APPIKONDAKUMARSAI/Spotify_Global_Streaming-EDA-/blob/main/Spotify_EDA_Overview2.PNG<br>	
+https://github.com/APPIKONDAKUMARSAI/Spotify_Global_Streaming-EDA-/blob/main/Spotify_EDA_Overview3.PNG<br>
+https://github.com/APPIKONDAKUMARSAI/Spotify_Global_Streaming-EDA-/blob/main/Spotify_EDA_Overview4.PNG<br>
